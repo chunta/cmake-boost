@@ -1,0 +1,3 @@
+/Users/nmi/Desktop/WebPackTest/CMakeFiles/rebuild_cache.dir
+/Users/nmi/Desktop/WebPackTest/CMakeFiles/edit_cache.dir
+/Users/nmi/Desktop/WebPackTest/CMakeFiles/ex2.dir
